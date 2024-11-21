@@ -13,7 +13,7 @@
     border-radius: 50%;
     border:2px solid;
     background-color: green;
-    animation: anime 10s infinite;
+    animation: anime 12s infinite;
     
 }
 @keyframes anime{
